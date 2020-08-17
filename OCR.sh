@@ -1,7 +1,7 @@
 #!/bin/bash
 #(Uniquement pour le WSL,) Si vous voulez sélectionner le moteur par défaut (même pendant un batch), enlevez le "sudo" aux lignes 39, 44, 49 et 52.
 #Si vous n'utilisez pas WSL, "sudo" peut causer des erreurs. Enlevez le!
-#prout
+
 get_sourcename (){ #putain de fonction qui sépare l'extension du fichier vidéo de son nom.
 	sourcename=$1
 	sourcename=${sourcename%".mp4"}
