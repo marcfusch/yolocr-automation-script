@@ -1,0 +1,1 @@
+# yolocr-automation-script
