@@ -1,6 +1,6 @@
 # yolocr-automation-script
 
-A simple bash script that automates the process of YoloCR. https://git.clapity.eu/Id/YoloCR Features:
+A simple bash script that automates the process of YoloCR. https://bitbucket.org/YuriZero/yolocr Features:
 
     - Bulk Processing
     - Automatic ocr process
